@@ -88,3 +88,5 @@ API integration (Spotify, IMDb)
 
 📝 Author
 This project was created as part of an Introduction to Problem Solving course to practice basic Python logic and user interaction.
+<img width="1414" height="802" alt="Screenshot 2025-11-23 at 7 31 11 PM" src="https://github.com/user-attachments/assets/829f5483-8816-430f-9e8a-2c4fa66f5412" />
+
